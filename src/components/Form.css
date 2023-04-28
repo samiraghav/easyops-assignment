@@ -1,0 +1,70 @@
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+#firstName {
+  width: 100px;
+  margin-right: 4px;
+  padding: 5px;
+}
+#lastName {
+  width: 150px;
+  padding: 5px;
+}
+.contact-container {
+  margin-top: 20px;
+}
+#contactNumber {
+  padding: 5px;
+  width: 270px;
+}
+button[type="submit"] {
+  width: 285px;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: #68d168;
+}
+#search {
+  padding: 5px;
+}
+.search-box {
+  position: relative;
+  display: flex;
+  margin-top: 20px;
+  margin-left: 342px;
+  align-items: center;
+}
+.search-box input[type="text"] {
+  padding: 5px;
+  float: right;
+  border-radius: 20px;
+  width: 500px;
+}
+.search-icon {
+  position: absolute;
+  left: 10px;
+  color: #aaa;
+}
+table {
+  border-collapse: collapse;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 20px;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+th,
+td {
+  text-align: left;
+  padding: 30px;
+  background-color: rgb(250, 237, 237);
+  border: 1px solid #080808;
+}
+th {
+  background-color: rgb(197, 167, 167);
+  color: #fff;
+}
+
