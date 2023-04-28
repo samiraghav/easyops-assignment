@@ -1,4 +1,4 @@
-# EasyOps Assignment
+# EasyOps Assignment Cuvette
 This is a repository for the EasyOps assignment, which is a web application for adding and displaying information about people.
 
 # Getting Started
